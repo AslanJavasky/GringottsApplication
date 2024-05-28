@@ -1,4 +1,4 @@
-package com.aslanjavasky.gringottsapplication.ui.theme
+package com.aslanjavasky.gringottsapplication.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

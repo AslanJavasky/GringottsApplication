@@ -1,4 +1,4 @@
-package com.aslanjavasky.gringottsapplication.ui.theme
+package com.aslanjavasky.gringottsapplication.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
